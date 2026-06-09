@@ -14,9 +14,9 @@ $^{c}$ Centro de Resiliencia del Clima (CR2), Chile
 $^{*}$ Corresponding author (horacio@ecoinformatica.cl)
 
 
-Journal: [Water Resources Management](https://link.springer.com/journal/11269)
-
-doi: [10.1007/s11269-026-04783-0](http://doi.org/10.1007/s11269-026-04783-0)
+> Journal: [Water Resources Management](https://link.springer.com/journal/11269)
+>
+> doi: [10.1007/s11269-026-04783-0](http://doi.org/10.1007/s11269-026-04783-0)
 
 ## Abstract
 
