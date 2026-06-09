@@ -3,21 +3,35 @@ This repository contains the data and code for the following work
 
 # Beyond Per Capita: Superlinear Scaling and Industrial Decoupling in Urban Water Metabolism
 
+Mariana Brüning-González$^{a}$ , Fernando Arenas-Araya$^{b}$ , Jorge Amaya$^{b}$ , Camila Álvarez-Garretón$^{b,c}$ , Horacio Samaniego $^{a,*}$
+
+$^{a}$ Ecoinformatica lab, Universidad Austral de Chile, Valdivia, Chile; 
+
+$^{b}$ Centro de Modelamiento Matemático, Universidad de Chile, Santiago, Chile;
+
+$^{c}$ Centro de Resiliencia del Clima (CR2), Chile
+
+$^{*}$ Corresponding author (horacio@ecoinformatica.cl)
+
+
 Journal: [Water Resources Management](https://link.springer.com/journal/11269)
 
 doi: [10.1007/s11269-026-04783-0](http://doi.org/10.1007/s11269-026-04783-0)
 
-Authors: 
-  - Mariana Brüning-González $^1$
-  - Fernando Arenas-Araya $^2$
-  - Jorge Amaya $^2$
-  - Camila Álvarez-Garretón $^{2,3}$
-  - Horacio Samaniego $^1$
-    
-$^1$ Ecoinformatica lab, Universidad Austral de Chile, Valdivia, Chile; 
-$^2$ Centro de Modelamiento Matemático, Universidad de Chile, Santiago, Chile;
-$^3$ Centro de Resiliencia del Clima (CR2), Chile
+## Abstract
 
+Traditional urban water management often relies on aggregate per capita indicators
+that fail to capture the complex dynamics and systemic inefficiencies of growing cities.
+This study applies Urban Scaling Theory to analyze consumptive water use across 343
+Chilean communes, evaluating how demographic, environmental, and socioeconomic
+variables modulate metabolic performance in a context of chronic water security
+challenges. Our findings reveal a critical superlinear scaling of domestic consumption
+($\beta \approx$1.08), where water demand grows faster than population size,
+indicating that current urbanization patterns generate diseconomies of scale rather
+than expected infrastructure efficiencies. Conversely, industrial water use is found to
+be entirely decoupled from population size, driven instead by resource proximity in low-
+density territories. This reveals a functional and spatial mismatch where wealthy
+    
 ## Repository Structure
 
 - `data/`: Contains all CSV and Excel files used in the analysis.
