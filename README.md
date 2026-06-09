@@ -45,5 +45,5 @@ Authors:
 ## Funding Information
 
 - ANID/FONDECYT/1211490 --- Horacio Samaniego
-- Doctoral Grant #21210418 --- Mariana Brüning-González
+- ANID/Doctoral Grant #21210418 --- Mariana Brüning-González
 - ANID/- FONDECYT/11240924 --- Camila Álvarez-Garretón
