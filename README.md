@@ -44,6 +44,6 @@ Authors:
 
 ## Funding Information
 
-- Agencia Nacional de Investigación y Desarrollo (ANID/FONDECYT/1211490) Dr. Horacio Samaniego
-- Agencia Nacional de Investigación y Desarrollo (Doctoral Grant #21210418) Dr Mariana Brüning-González
-- Agencia Nacional de Investigación y Desarrollo (ANID/- FONDECYT/11240924.) Dr. Camila Álvarez-Garretón
+- ANID/FONDECYT/1211490 --- Horacio Samaniego
+- Doctoral Grant #21210418 --- Mariana Brüning-González
+- ANID/- FONDECYT/11240924 --- Camila Álvarez-Garretón
