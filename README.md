@@ -24,7 +24,7 @@ This study applies Urban Scaling Theory to analyze consumptive water use across 
 Chilean communes, evaluating how demographic, environmental, and socioeconomic
 variables modulate metabolic performance in a context of chronic water security
 challenges. Our findings reveal a critical superlinear scaling of domestic consumption
-( $ \beta \approx $ 1.08), where water demand grows faster than population size,
+( $\beta$ $\approx$ 1.08), where water demand grows faster than population size,
 indicating that current urbanization patterns generate diseconomies of scale rather
 than expected infrastructure efficiencies. Conversely, industrial water use is found to
 be entirely decoupled from population size, driven instead by resource proximity in low-
