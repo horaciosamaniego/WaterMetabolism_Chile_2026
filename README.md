@@ -1,4 +1,4 @@
-This repository contains the data and code for the following work
+This repository contains the data and code for:
 
 
 # Beyond Per Capita: Superlinear Scaling and Industrial Decoupling in Urban Water Metabolism
@@ -14,9 +14,7 @@ $^{c}$ Centro de Resiliencia del Clima (CR2), Chile
 $^{*}$ Corresponding author (horacio@ecoinformatica.cl)
 
 
-> Journal: [Water Resources Management](https://link.springer.com/journal/11269)
->
-> doi: [10.1007/s11269-026-04783-0](http://doi.org/10.1007/s11269-026-04783-0)
+> Brüning-González, M; Arenas-Araya, F; Amaya, J; Alvarez-Garreton, C; Samaniego, H (2026) Beyond Per Capita: Superlinear Scaling and Industrial Decoupling in Urban Water Metabolism. [Water Resources Management](https://link.springer.com/journal/11269) doi: [10.1007/s11269-026-04783-0](http://doi.org/10.1007/s11269-026-04783-0)
 
 ## Abstract
 
@@ -31,6 +29,13 @@ indicating that current urbanization patterns generate diseconomies of scale rat
 than expected infrastructure efficiencies. Conversely, industrial water use is found to
 be entirely decoupled from population size, driven instead by resource proximity in low-
 density territories. This reveals a functional and spatial mismatch where wealthy
+residential hubs consume water disproportionately while the environmental costs of
+industrial production are offshored to less affluent areas, commonly known as
+``sacrifice areas''. We conclude that sustainable urban planning must move beyond
+simple per capita targets to address the sector-specific scaling properties and
+underlying socioeconomic inequities that govern urban water metabolism. Effective
+governance requires multi-scale strategies that integrate administrative management
+with biophysical constraints to ensure long-term water security and social equity.
     
 ## Repository Structure
 
