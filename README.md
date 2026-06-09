@@ -14,7 +14,7 @@ $^{c}$ Centro de Resiliencia del Clima (CR2), Chile
 $^{*}$ Corresponding author (horacio@ecoinformatica.cl)
 
 
-> Brüning-González, M; Arenas-Araya, F; Amaya, J; Alvarez-Garreton, C; Samaniego, H (2026) <it>Beyond Per Capita: Superlinear Scaling and Industrial Decoupling in Urban Water Metabolism</it>. [Water Resources Management](https://link.springer.com/journal/11269) doi: [10.1007/s11269-026-04783-0](http://doi.org/10.1007/s11269-026-04783-0)
+> Brüning-González, M; Arenas-Araya, F; Amaya, J; Alvarez-Garreton, C; Samaniego, H (2026) <i>Beyond Per Capita: Superlinear Scaling and Industrial Decoupling in Urban Water Metabolism</i>. [Water Resources Management](https://link.springer.com/journal/11269) doi: [10.1007/s11269-026-04783-0](http://doi.org/10.1007/s11269-026-04783-0)
 
 ## Abstract
 
