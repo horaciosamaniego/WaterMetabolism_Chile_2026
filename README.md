@@ -8,11 +8,15 @@ Journal: [Water Resources Management](https://link.springer.com/journal/11269)
 doi: [10.1007/s11269-026-04783-0](http://doi.org/10.1007/s11269-026-04783-0)
 
 Authors: 
-  - Mariana Brüning-González (Ecoinformatica lab, Universidad Austral de Chile, Valdivia, Chile)
-  - Fernando Arenas-Araya (Centro de Modelamiento Matemático, Universidad de Chile, Santiago, Chile)
-  - Jorge Amaya (Centro de Modelamiento Matemático, Universidad de Chile, Santiago, Chile)
-  - Camila Álvarez-Garretón (Centro de Resiliencia del Clima (CR2) & Centro de Modelamiento Matemático, Universidad de Chile, Santiago, Chile)
-  - Horacio Samaniego (Ecoinformatica lab, Universidad Austral de Chile, Valdivia, Chile)
+  - Mariana Brüning-González$^1$
+  - Fernando Arenas-Araya$^2$
+  - Jorge Amaya$^2$
+  - Camila Álvarez-Garretón$^{2,3}$
+  - Horacio Samaniego$^1$(Ecoinformatica lab, Universidad Austral de Chile, Valdivia, Chile)
+
+$^1$ Ecoinformatica lab, Universidad Austral de Chile, Valdivia, Chile; 
+$^2$ Centro de Modelamiento Matemático, Universidad de Chile, Santiago, Chile;
+$^3$ Centro de Resiliencia del Clima (CR2), Chile
 
 ## Repository Structure
 
@@ -44,6 +48,6 @@ Authors:
 
 ## Funding Information
 
-- ANID/FONDECYT/1211490 --- Horacio Samaniego
-- ANID/Doctoral Grant #21210418 --- Mariana Brüning-González
-- ANID/- FONDECYT/11240924 --- Camila Álvarez-Garretón
+- ANID/FONDECYT/1211490 -- Horacio Samaniego
+- ANID/Doctoral Grant #21210418 -- Mariana Brüning-González
+- ANID/- FONDECYT/11240924 -- Camila Álvarez-Garretón
