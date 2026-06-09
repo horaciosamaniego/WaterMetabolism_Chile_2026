@@ -64,6 +64,9 @@ with biophysical constraints to ensure long-term water security and social equit
 - SII (Internal Revenue Service, Chile)
 - ISMT (Territorial Social Maturity Index)
 
+## Supporting Information
+
+- [Supporting Information](https://github.com/horaciosamaniego/WaterMetabolism_Chile_2026/blob/main/SI.pdf)
 
 ## Funding Information
 
