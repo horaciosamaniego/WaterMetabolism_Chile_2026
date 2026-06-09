@@ -3,13 +3,17 @@ This repository contains the data and code for:
 
 # Beyond Per Capita: Superlinear Scaling and Industrial Decoupling in Urban Water Metabolism
 
-Mariana Brüning-González $^{a}$ , Fernando Arenas-Araya $^{b}$ , Jorge Amaya $^{b}$ , Camila Álvarez-Garretón $^{b,c}$ , Horacio Samaniego $^{a,*}$
+Mariana Brüning-González $^{a,b}$ , Fernando Arenas-Araya $^{c}$ , Jorge Amaya $^{c}$ , Camila Álvarez-Garretón $^{c,d}$ , Horacio Samaniego $^{a,e,*}$
 
 $^{a}$ Ecoinformatica lab, Universidad Austral de Chile, Valdivia, Chile; 
 
-$^{b}$ Centro de Modelamiento Matemático, Universidad de Chile, Santiago, Chile;
+$^{b}$ Escuela de Postgrado, Facultad de Ciencias, Universidad Austral de Chile, Campus Isla Teja s/n, Valdivia, 5090000, Los Rı́os, Chile.
 
-$^{c}$ Centro de Resiliencia del Clima (CR2), Chile
+$^{c}$ Centro de Modelamiento Matemático, Universidad de Chile, Santiago, Chile;
+
+$^{d}$ Center for Climate and Resilience Research (CR2), Chile
+
+$^{e}$ Instituto de Sistemas Complejos de Valparaı́so, Subida Artillerı́a 470, Valparaı́so, 2360448, Chile.
 
 $^{*}$ Corresponding author (horacio@ecoinformatica.cl)
 
