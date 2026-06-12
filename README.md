@@ -66,7 +66,7 @@ with biophysical constraints to ensure long-term water security and social equit
 - CR2WU Database (Center for Climate and Resilience Research)
 - INE (National Institute of Statistics, Chile)
 - SII (Internal Revenue Service, Chile)
-- ISMT ([Territoriao Socio-Material (economic stratification) Index](https://ismtchile.geocoded.dev/home)
+- ISMT ([Territorial Socio-Material Index](https://ismtchile.geocoded.dev/home) (i.e., socioeconomic stratification index)
 
 ## Supporting Information
 
